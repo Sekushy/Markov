@@ -1,0 +1,11 @@
+﻿  Markov.cpp
+c:\users\oshiino\documents\university\courses\formal-language-homework\markov\markov\rule.h(39): warning C4154: deletion of an array expression; conversion to pointer supplied
+c:\users\oshiino\documents\university\courses\formal-language-homework\markov\markov\rule.h(40): warning C4154: deletion of an array expression; conversion to pointer supplied
+c:\users\oshiino\documents\university\courses\formal-language-homework\markov\markov\vocabularychecker.h(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\oshiino\documents\university\courses\formal-language-homework\markov\markov\vocabularychecker.h(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\oshiino\documents\university\courses\formal-language-homework\markov\markov\markov.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\oshiino\documents\university\courses\formal-language-homework\markov\markov\markov.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\oshiino\documents\university\courses\formal-language-homework\markov\markov\markov.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\oshiino\documents\university\courses\formal-language-homework\markov\markov\markov.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\oshiino\documents\university\courses\formal-language-homework\markov\markov\markov.cpp(46): warning C4018: '<': signed/unsigned mismatch
+  Markov.vcxproj -> C:\Users\Oshiino\Documents\University\Courses\Formal-language-homework\Markov\Debug\Markov.exe
